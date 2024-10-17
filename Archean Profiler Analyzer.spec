@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['archeanIcon.ico'],
+    icon=['img\\archeanIcon.ico'],
 )

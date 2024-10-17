@@ -14,7 +14,7 @@ class ArcheanProfilerAnalyzer:
         self.root = root
         self.root.geometry("1280x720")
         self.root.title("Archean Profiler Analyzer")
-        self.root.iconbitmap("archeanIcon.ico")
+        self.root.iconbitmap("img/archeanIcon.ico")
         self.create_widgets()
         self.data = []
         self.root_node = TreeNode('Root')
