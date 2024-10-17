@@ -1,0 +1,2 @@
+@echo off
+pyinstaller --noconfirm --onefile --windowed -i archeanIcon.ico "Archean Profiler Analyzer.py"
