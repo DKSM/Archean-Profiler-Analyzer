@@ -4,3 +4,5 @@ This program analyzes the performance of the game *Archean* by reading a CSV fil
 The program highlights the profiles with the worst performance to help identify bottlenecks. It also offers options to expand or collapse all nodes in the tree and includes a menu to open files and access help on the coloring system.
 
 An executable for Windows was created using PyInstaller.
+___
+![screenshot](img/APT.png)

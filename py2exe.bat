@@ -1,2 +1,1 @@
-@echo off
-pyinstaller --noconfirm --onefile --windowed -i "img/archeanIcon.ico" "Archean Profiler Analyzer.py"
+pyinstaller --noconfirm --windowed -i "img\\archeanIcon.ico" --add-data "img\\archeanIcon.ico;img" "ArcheanProfilerTool.py"
